@@ -1,0 +1,3 @@
+([('main',
+   '/Users/shudanshu/tapsya/Dsa_project/Diet /dist/main',
+   'EXECUTABLE')],)
