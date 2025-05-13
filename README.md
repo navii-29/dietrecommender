@@ -1,3 +1,10 @@
 # dietrecommender
+### Input
+![Alt text](123.png)
 
-![Alt text](/Users/navie/Desktop/123.png)
+### Output
+
+![Alt text](1234.png)
+
+
+
